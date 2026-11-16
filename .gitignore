@@ -1,0 +1,6 @@
+# Build output and the example's generated footage
+out/
+example/*.png
+example/recording.mp4
+__pycache__/
+.DS_Store
